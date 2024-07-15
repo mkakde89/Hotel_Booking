@@ -1,5 +1,7 @@
 # Hotel_Booking
+
 I'm thrilled to share the journey of my recent SQL project, where I delved into a comprehensive analysis of medical data. The ability to uncover meaningful insights from vast datasets showcases the incredible capabilities of SQL. Here's a glimpse into the project:
+
 
 📊 Key Queries and Results:
 1️⃣ Patients by Gender:
