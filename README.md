@@ -4,20 +4,16 @@ I'm thrilled to share the journey of my recent SQL project, where I delved into 
 
 
 📊 Key Queries and Results:
-1️⃣ Patients by Gender:
 
+1️⃣ Patients by Gender:
 Identified and showcased the first name, last name, and gender of male patients. This fundamental query sets the stage for deeper analysis.
 2️⃣ Patients without Allergies:
-
 Explored the patient landscape by presenting the first name and last name of individuals without recorded allergies. This aspect is crucial for healthcare providers.
 3️⃣ Patients with Names Starting with 'C':
-
 Delved into patient demographics by extracting the first names of individuals whose names start with the letter 'C'. A simple yet effective filtering query.
 4️⃣ Weight Ranges Query:
-
 Investigated the weight distribution by retrieving the first and last names of patients within the specified weight range (100 to 120 pounds). This is valuable for assessing patient health.
 5️⃣ Allergies Update:
-
 Contributed to data cleanliness by updating the patients table, replacing null values in the allergies column with 'NKA' (No Known Allergies). This enhances data reliability.
 ...and the exploration continued with a myriad of other insightful queries!
 
